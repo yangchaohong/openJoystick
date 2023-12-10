@@ -1,0 +1,3 @@
+LIBRARY openJoystick.dll
+EXPORTS
+openJoystick-Win
